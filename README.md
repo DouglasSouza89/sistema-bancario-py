@@ -1,2 +1,5 @@
-# SistemaBancarioBasico
-Meu primeiro projeto em Python! 🚀 Um sistema bancário simples desenvolvido para treinar lógica de programação, estruturas condicionais, laços de repetição e manipulação de variáveis. O sistema permite realizar depósitos, saques e consultar extrato de forma interativa no terminal.
+# 💰 Sistema Bancário em Python
+
+Este é o meu primeiro projeto em Python, desenvolvido durante meus estudos de lógica de programação e fundamentos da linguagem.
+
+O sistema simula operações bancárias básicas através de um menu interativo no terminal.
